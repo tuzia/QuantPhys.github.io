@@ -1,0 +1,168 @@
+HTML {
+	
+}
+BODY {
+	
+}
+DIV {
+	FONT-SIZE: 12px
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+BODY {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #e2f0f1; MARGIN: 0px; FONT-SIZE: 12px
+}
+TABLE {
+	FONT-SIZE: 12px
+}
+#container_page {
+	TEXT-ALIGN: left; BACKGROUND-COLOR: #ffffff; MARGIN: 0px auto; WIDTH: 926px
+}
+#container_content {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 926px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#head {
+	WIDTH: 926px; HEIGHT: 189px
+}
+#foot {
+	FONT-FAMILY: "Times New Roman", Times, serif; HEIGHT: 40px; COLOR: #333333; CLEAR: both
+}
+.space {
+	WIDTH: 926px; HEIGHT: 12px
+}
+.Input {
+	WIDTH: 150px
+}
+.Inputxzm {
+	WIDTH: 80px
+}
+.biaoti1 {
+	LINE-HEIGHT: 25px; FONT-FAMILY: "宋体"; COLOR: #ca631d; CLEAR: both; FONT-SIZE: 15px; FONT-WEIGHT: bold
+}
+.content {
+	LINE-HEIGHT: 22px; FONT-SIZE: 12px
+}
+.maincontent {
+	LINE-HEIGHT: 22px; FONT-SIZE: 13px
+}
+.kuang {
+	BORDER-BOTTOM: #bbdce3 1px solid; BORDER-LEFT: #bbdce3 1px solid; BORDER-TOP: #bbdce3 1px solid; BORDER-RIGHT: #bbdce3 1px solid
+}
+A:link {
+	TEXT-ALIGN: justify; LINE-HEIGHT: 1.5em; COLOR: #262626; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:visited {
+	TEXT-ALIGN: justify; LINE-HEIGHT: 1.5em; COLOR: #262626; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-ALIGN: justify; LINE-HEIGHT: 1.5em; COLOR: #262626; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+A:active {
+	TEXT-ALIGN: justify; LINE-HEIGHT: 1.5em; COLOR: #1270ad; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.wlink:link {
+	COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.wlink:visited {
+	COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.wlink:hover {
+	COLOR: #ff6600; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.wlink:active {
+	COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.blink:link {
+	COLOR: #1270ad; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.blink:visited {
+	COLOR: #278883; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.blink:hover {
+	COLOR: #ff3300; FONT-SIZE: 12px; TEXT-DECORATION: underline
+}
+.blink:active {
+	COLOR: #278883; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.biaoti {
+	FONT-FAMILY: "宋体"; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.biaoti2 {
+	FONT-FAMILY: "宋体"; COLOR: #ffffff; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+.biaoti3 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 25px; FONT-FAMILY: "宋体"; COLOR: #000000; CLEAR: both; FONT-SIZE: 20px; FONT-WEIGHT: bold
+}
+.xian {
+	BORDER-BOTTOM: #999999 1px dashed; BACKGROUND-REPEAT: repeat-x
+}
+#container {
+	TEXT-ALIGN: left; MARGIN: 0px auto; WIDTH: 1000px; BACKGROUND: #ffffff
+}
+#top {
+	WIDTH: 1000px; BACKGROUND: url(../img/style_2/bg.jpg) no-repeat; HEIGHT: 153px
+}
+#logo {
+	 WIDTH: 340px; HEIGHT: 97px
+}
+#search {
+	LINE-HEIGHT: 23px; MARGIN: 5px 10px 0px 0px; WIDTH: 600px; DISPLAY: inline; FLOAT: right; HEIGHT: 110px
+}
+#search A {
+	COLOR: #fff
+}
+.search_text {
+	BORDER-BOTTOM: #e3e3e3 1px solid; BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 1px; LINE-HEIGHT: 14px; PADDING-LEFT: 0px; WIDTH: 150px; PADDING-RIGHT: 0px; HEIGHT: 16px; FONT-SIZE: 12px; VERTICAL-ALIGN: top; BORDER-TOP: #e3e3e3 1px solid; BORDER-RIGHT: medium none; PADDING-TOP: 1px
+}
+.search_but {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; VERTICAL-ALIGN: top; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#lead_1 {
+	WIDTH: 990px; CLEAR: both
+}
+#leader {
+	MARGIN-TOP: 20px
+}
+#leader LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left; HEIGHT: 30px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#leader LI A {
+	COLOR: #ffffff; FONT-WEIGHT: bolder; TEXT-DECORATION: none
+}
+#leader LI A:hover {
+	TEXT-DECORATION: underline
+}
+#leader LI A#current {
+	COLOR: #ffffd9; FONT-WEIGHT: bolder
+}
+#middle {
+	WIDTH: 700px; CLEAR: both
+}
+#bottom {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 13px; PADDING-LEFT: 10px; WIDTH: 980px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; COLOR: #999999; CLEAR: both; PADDING-TOP: 10px ; TEXT-ALIGN: center;
+}
+#bottom A {
+	COLOR: #999999
+}
+.mo {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN-BOTTOM: 5px; BACKGROUND: #fff; HEIGHT: auto; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.mo .drag {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 20px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: url(../img/style_2/lan_head.jpg) repeat-x; HEIGHT: 20px; COLOR: #000; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.mo .nr {
+	PADDING-BOTTOM: 3px; MARGIN: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: #fff; PADDING-TOP: 3px
+}
+.mo .onclickDIV {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; WIDTH: 70px; PADDING-RIGHT: 3px; BACKGROUND: url(../img/style_2/lan_head.jpg) repeat-x; FLOAT: right; HEIGHT: 24px; PADDING-TOP: 3px
+}
+.dragBottom {
+	DISPLAY: block; FLOAT: right; FONT-SIZE: 150%; CURSOR: pointer
+}
+.dragBottom IMG {
+	WIDTH: 16px
+}
+#search .sitenameurl {
+	Z-INDEX: 1; POSITION: absolute; TEXT-ALIGN: left; LINE-HEIGHT: 20px; PADDING-LEFT: 4px; WIDTH: 480px; HEIGHT: 26px; COLOR: #333; FONT-SIZE: 18px; TOP: 60px; FONT-WEIGHT: normal; opacity: 1
+}

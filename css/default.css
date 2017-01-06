@@ -1,0 +1,95 @@
+* {
+	padding:0px; MARGIN: 0px; font-family:����
+}
+p {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	MARGIN-LEFT: 30px
+}
+A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+
+.clear {
+	CLEAR: both
+}
+.toplink {
+	TEXT-ALIGN: left; MARGIN: 0px auto; WIDTH: 1000px; BACKGROUND: #fff; HEIGHT: 20px
+}
+.toplink SPAN {
+	FLOAT: right; MARGIN-LEFT: 6px; MARGIN-RIGHT: 6px
+}
+.toplink SPAN A {
+	COLOR: #000099; FONT-SIZE: 12px
+}
+#bottom IFRAME {
+	WIDTH: 260px
+}
+BODY {
+	LINE-HEIGHT: 22px; FONT-FAMILY: "����";  FONT-SIZE: 13px
+}
+#container {
+	TEXT-ALIGN: left; MARGIN: 0px auto; WIDTH: 980px; BACKGROUND: #ffffff
+}
+#top {
+	WIDTH: 980px; BACKGROUND: url(../images/bg.jpg) no-repeat; HEIGHT: 189px
+}
+#logo {
+	 WIDTH: 340px; HEIGHT: 97px
+}
+#search {
+	LINE-HEIGHT: 23px; MARGIN: 5px 10px 0px 0px; WIDTH: 600px; DISPLAY: inline; FLOAT: right; HEIGHT: 110px
+}
+#search A {
+	COLOR: #fff
+}
+.search_text {
+	BORDER-BOTTOM: #e3e3e3 1px solid; BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 1px; LINE-HEIGHT: 14px; PADDING-LEFT: 0px; WIDTH: 150px; PADDING-RIGHT: 0px; HEIGHT: 16px; FONT-SIZE: 12px; VERTICAL-ALIGN: top; BORDER-TOP: #e3e3e3 1px solid; BORDER-RIGHT: medium none; PADDING-TOP: 1px
+}
+.search_but {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; VERTICAL-ALIGN: top; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#lead {
+	WIDTH: 990px;BACKGROUND: url(../images/bg_1.jpg) no-repeat; CLEAR: both;HEIGHT: 30px;
+}
+#navigate {
+	MARGIN-TOP: 0px
+}
+#navigate LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; LIST-STYLE-TYPE: none; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left; HEIGHT: 30px; MARGIN-LEFT: 0px; PADDING-TOP: 0px
+}
+#navigate LI A {
+	COLOR: #ffffff; FONT-WEIGHT: bolder; TEXT-DECORATION: none
+}
+#navigate LI A:hover {
+	TEXT-DECORATION: underline
+}
+#navigate LI A#current {
+	COLOR: #ffffd9; FONT-WEIGHT: bolder
+}
+#middle {
+	WIDTH: 980px; CLEAR: both
+}
+#bottom {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 13px; PADDING-LEFT: 10px; WIDTH: 980px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; COLOR: #999999; CLEAR: both; PADDING-TOP: 10px;TEXT-ALIGN: center; 
+}
+#bottom A {
+	COLOR: #999999
+}
+.module {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN-BOTTOM: 5px; BACKGROUND: #fff; HEIGHT: auto; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.module .subject {
+	PADDING-BOTTOM: 3px; LINE-HEIGHT: 20px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: url(../images/lan_head.jpg) repeat-x; HEIGHT: 20px; COLOR: #000; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.module .detail {
+	PADDING-BOTTOM: 3px; MARGIN: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: #fff; PADDING-TOP: 3px
+}
+

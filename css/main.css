@@ -2503,9 +2503,9 @@ hr {
 .logo-line-before,
 .logo-line-after {
   display: block;
-  overflow: hidden;
-  margin: 0 auto;
-  width: 90%;
+  overflow: visible;
+  margin: ;
+  width: 75%;
 }
 @media (max-width: 767px) {
   .logo-line-before,

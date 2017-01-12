@@ -2503,11 +2503,11 @@ hr {
 .logo-line-before,
 .logo-line-after {
   display: block;
-  overflow: visible;
-  margin: ;
+  overflow: hidden;
+  margin: 0 auto;
   width: 75%;
 }
-@media (max-width: 767px) {
+@media (max-width: 900px) {
   .logo-line-before,
   .logo-line-after {
     display: none;
